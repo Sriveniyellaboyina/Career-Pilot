@@ -70,9 +70,40 @@ CareerPilot provides an AI-driven solution that:
 
 ---
 
-# ⚙️ Installation Steps
+# 🔄 Project Workflow
 
-## 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/careerpilot.git
-cd careerpilot
+```text
+Resume Upload
+      ↓
+Resume Parsing
+      ↓
+Skill Extraction using NLP
+      ↓
+AI-Based Skill Verification Test
+      ↓
+Performance Evaluation
+      ↓
+Job Recommendation using APIs
+      ↓
+User Dashboard Display
+```
+
+---
+
+# 🚀 Future Enhancements
+
+- 🎯 Advanced AI-based Career Guidance
+- 📈 Skill Gap Analysis
+- 🌍 LinkedIn Integration
+- 🤖 Chatbot Career Assistant
+- 📱 Mobile Application Support
+- 🧾 Resume Score Prediction
+- 🧠 ML-Based Job Matching Improvements
+
+---
+
+# 📚 Conclusion
+
+CareerPilot simplifies the recruitment and job search process by combining AI, NLP, and automation technologies. The platform helps users identify their strengths, validate their skills, and discover relevant job opportunities efficiently.
+
+---
