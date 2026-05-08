@@ -1,6 +1,6 @@
 # 🚀 CareerPilot –  AI Job Recommendation & Skill Verification System
 
-## 📌 Project Description
+## 📌 Project Description: 
 CareerPilot is an AI-powered web application designed to help users discover suitable job opportunities based on their resume skills. The system analyzes uploaded resumes using NLP techniques, extracts technical skills, conducts AI-generated skill verification tests, and recommends relevant jobs through external APIs.
 
 The platform improves the recruitment process by automating resume analysis, skill assessment, and intelligent job matching.
